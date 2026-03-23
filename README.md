@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+🧠 Medical Artificial Intelligence · 🩻 Medical Image Analysis · 🔬 Trustworthy and Reliable AI    
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/onenan19/onenan19/main/badges/stars.json" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/onenan19/onenan19/main/badges/forks.json" />
@@ -15,9 +19,6 @@
 
 
 ---
-<p align="center">
-🧠 Medical Artificial Intelligence · 🩻 Medical Image Analysis · 🔬 Trustworthy and Reliable AI    
-</p>
 
 - 🏛️ Currently studying at <strong>State Key Laboratory of Biomedical Imaging Science and Systems</strong>.
 - 📫 Feel free to reach me via my <strong>wangnan252@mails.ucas.ac.cn</strong>.

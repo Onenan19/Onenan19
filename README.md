@@ -4,6 +4,16 @@
 🎓 PhD Student at <strong>Shenzhen Institute of Advanced Technology</strong>, jointly trained with <strong>PengCheng National Laboratory</strong>.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/onenan19/onenan19/main/badges/stars.json" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/onenan19/onenan19/main/badges/forks.json" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/onenan19/onenan19/main/badges/commits.json" />
+  <!-- <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mk-runner/mk-runner/main/badges/downloads.json" /> -->
+</p>
+
+
 ---
 <p align="center">
 🧠 Medical Artificial Intelligence · 🩻 Medical Image Analysis · 🔬 Trustworthy and Reliable AI    
